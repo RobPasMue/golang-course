@@ -1,2 +1,2 @@
-# golang-course
+# Golang course
 Files coming from Udemy golang course
